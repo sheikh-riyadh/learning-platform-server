@@ -1,0 +1,78 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "courseName": "Python",
+        "courseDetails": {
+            "day-one": "Day one you will get basic idea of python and why important of python",
+            "day-two": "Day two Python veriable and data types how many data types in python",
+            "day-three": "Day three you will get python function idea how to write function and pass peremter",
+            "day-four": "Day four discuss arrow function and how to works arrow function",
+            "dya-five": "Day five Callback function and problem solving and get some idea of array",
+            "day-six": "Day six we will discuss for loop, while loop, do while loop and showing some exaple"
+        },
+        "courseID": 1
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "courseName": "JavaScript",
+        "courseDetails": {
+            "day-one": "Day one you will get basic idea of javascript and why important of javascript",
+            "day-two": "Day two javascript veriable and data types how many data types in javascript",
+            "day-three": "Day three you will get javascript function idea how to write function and pass peremter",
+            "day-four": "Day four discuss arrow function and how to works arrow function",
+            "dya-five": "Day five Callback function and problem solving and get some idea of array",
+            "day-six": "Day six we will discuss for loop, while loop, do while loop and showing some exaple"
+        },
+        "courseID": 2
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71011",
+        "courseName": "Nodejs",
+        "courseDetails": {
+            "day-one": "Day one you will get basic idea of nodejs and why important of python",
+            "day-two": "What is nodejs how its works with server site and how to use",
+            "day-three": "We will get some idea of Nodejs stream and buffer",
+            "day-four": "Install express js and discuss with middleware how to works cors"
+        },
+        "courseID": 3
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71012",
+        "courseName": "AI Development",
+        "courseDetails": {
+            "day-one": "Day one discuss about programming language for ai development",
+            "day-two": "Day two discuss with data stucture and algorithm",
+            "day-three": "Day three you will get idea Exploratory data analysis.",
+            "day-four": "Day four discuss importance of Models. why should we use models",
+            "dya-five": "Day five Deploying get some idea Deploying",
+            "day-six": "Day six we will discuss Security and importance of ai Security."
+        },
+        "courseID": 4
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f9",
+        "courseName": "Web Development",
+        "courseDetails": {
+            "day-one": "Day one you will get basic idea of web design and development",
+            "day-two": "Day two we will learn html (Hypertext Markup Language) css (Cascading Style Sheets)",
+            "day-three": "Day three you will get bootstrap call and components",
+            "day-four": "Day four discuss tailnwindcss and how to use this components",
+            "dya-five": "Day five create modern website with tailwind css bootstrap",
+            "day-six": "Day six explore javascript how to work javascript with browser"
+        },
+        "courseID": 5
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f0",
+        "courseName": "App Development",
+        "courseDetails": {
+            "day-one": "Day one you will get basic idea which programming language suiteble for app development",
+            "day-two": "Day two discuss XML why is important for app development",
+            "day-three": "Day three you will get idea android studio which is help to get android app development",
+            "day-four": "Day four discuss json file why is important and why should we use it",
+            "dya-five": "Day five offline database sql-lite or room database",
+            "day-six": "Day six we will discuss firebase and mysql database"
+        },
+        "courseID": 6
+    }
+]
