@@ -2,77 +2,89 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "courseName": "Python",
-        "courseDetails": {
-            "day-one": "Day one you will get basic idea of python and why important of python",
-            "day-two": "Day two Python veriable and data types how many data types in python",
-            "day-three": "Day three you will get python function idea how to write function and pass peremter",
-            "day-four": "Day four discuss arrow function and how to works arrow function",
-            "dya-five": "Day five Callback function and problem solving and get some idea of array",
-            "day-six": "Day six we will discuss for loop, while loop, do while loop and showing some exaple"
-        },
-        "courseID": 1
+        "courseDetails": [
+            "Day one you will get basic idea of python and why important of python",
+            "Day two Python veriable and data types how many data types in python",
+            "Day three you will get python function idea how to write function and pass peremter",
+            "Day four discuss arrow function and how to works arrow function",
+            "Day five Callback function and problem solving and get some idea of array",
+            "Day six we will discuss for loop, while loop, do while loop and showing some exaple"
+        ],
+        "courseID": 1,
+        "photoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/Python.png",
+        "price": "$200"
     },
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "courseName": "JavaScript",
-        "courseDetails": {
-            "day-one": "Day one you will get basic idea of javascript and why important of javascript",
-            "day-two": "Day two javascript veriable and data types how many data types in javascript",
-            "day-three": "Day three you will get javascript function idea how to write function and pass peremter",
-            "day-four": "Day four discuss arrow function and how to works arrow function",
-            "dya-five": "Day five Callback function and problem solving and get some idea of array",
-            "day-six": "Day six we will discuss for loop, while loop, do while loop and showing some exaple"
-        },
-        "courseID": 2
+        "courseDetails": [
+            "Day one you will get basic idea of javascript and why important of javascript",
+            "Day two javascript veriable and data types how many data types in javascript",
+            "Day three you will get javascript function idea how to write function and pass peremter",
+            "Day four discuss arrow function and how to works arrow function",
+            "Day five Callback function and problem solving and get some idea of array",
+            "Day six we will discuss for loop, while loop, do while loop and showing some exaple"
+        ],
+        "courseID": 2,
+        "photoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/js.jpg",
+        "price": "$220"
     },
     {
         "id": "f69a695f037cd9484cecaea37ca71011",
         "courseName": "Nodejs",
-        "courseDetails": {
-            "day-one": "Day one you will get basic idea of nodejs and why important of python",
-            "day-two": "What is nodejs how its works with server site and how to use",
-            "day-three": "We will get some idea of Nodejs stream and buffer",
-            "day-four": "Install express js and discuss with middleware how to works cors"
-        },
-        "courseID": 3
+        "courseDetails": [
+            "Day one you will get basic idea of nodejs and why important of python",
+            "What is nodejs how its works with server site and how to use",
+            "We will get some idea of Nodejs stream and buffer",
+            "Install express js and discuss with middleware how to works cors"
+        ],
+        "courseID": 3,
+        "photoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/nodejs.png",
+        "price": "$10"
     },
     {
         "id": "f69a695f037cd9484cecaea37ca71012",
         "courseName": "AI Development",
-        "courseDetails": {
-            "day-one": "Day one discuss about programming language for ai development",
-            "day-two": "Day two discuss with data stucture and algorithm",
-            "day-three": "Day three you will get idea Exploratory data analysis.",
-            "day-four": "Day four discuss importance of Models. why should we use models",
-            "dya-five": "Day five Deploying get some idea Deploying",
-            "day-six": "Day six we will discuss Security and importance of ai Security."
-        },
-        "courseID": 4
+        "courseDetails": [
+            "Day one discuss about programming language for ai development",
+            "Day two discuss with data stucture and algorithm",
+            "Day three you will get idea Exploratory data analysis.",
+            "Day four discuss importance of Models. why should we use models",
+            "Day five Deploying get some idea Deploying",
+            "Day six we will discuss Security and importance of ai Security."
+        ],
+        "courseID": 4,
+        "photoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/ai-tech-scaled-1.jpg",
+        "price": "$500"
     },
     {
         "id": "11468ed61aee84de492a8b04158a22f9",
         "courseName": "Web Development",
-        "courseDetails": {
-            "day-one": "Day one you will get basic idea of web design and development",
-            "day-two": "Day two we will learn html (Hypertext Markup Language) css (Cascading Style Sheets)",
-            "day-three": "Day three you will get bootstrap call and components",
-            "day-four": "Day four discuss tailnwindcss and how to use this components",
-            "dya-five": "Day five create modern website with tailwind css bootstrap",
-            "day-six": "Day six explore javascript how to work javascript with browser"
-        },
-        "courseID": 5
+        "courseDetails": [
+            "Day one you will get basic idea of web design and development",
+            "Day two we will learn html (Hypertext Markup Language) css (Cascading Style Sheets)",
+            "Day three you will get bootstrap call and components",
+            "Day four discuss tailnwindcss and how to use this components",
+            "Day five create modern website with tailwind css bootstrap",
+            "Day six explore javascript how to work javascript with browser"
+        ],
+        "courseID": 5,
+        "photoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/web-dev.jpg",
+        "price": "$350"
     },
     {
         "id": "11468ed61aee84de492a8b04158a22f0",
         "courseName": "App Development",
-        "courseDetails": {
-            "day-one": "Day one you will get basic idea which programming language suiteble for app development",
-            "day-two": "Day two discuss XML why is important for app development",
-            "day-three": "Day three you will get idea android studio which is help to get android app development",
-            "day-four": "Day four discuss json file why is important and why should we use it",
-            "dya-five": "Day five offline database sql-lite or room database",
-            "day-six": "Day six we will discuss firebase and mysql database"
-        },
-        "courseID": 6
+        "courseDetails": [
+            "Day one you will get basic idea which programming language suiteble for app development",
+            "Day two discuss XML why is important for app development",
+            "Day three you will get idea android studio which is help to get android app development",
+            "Day four discuss json file why is important and why should we use it",
+            "Day five offline database sql-lite or room database",
+            "Day six we will discuss firebase and mysql database"
+        ],
+        "courseID": 6,
+        "photoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/app-development.jpg",
+        "price": "$350"
     }
 ]

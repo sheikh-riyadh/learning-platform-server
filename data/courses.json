@@ -2,35 +2,35 @@
     {
         "id": 1,
         "courseTitle": "Python",
-        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/python1.png",
+        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/Python.png",
         "courseDuration": "57 weeks",
         "coursePrice": "$200"
     },
     {
         "id": 2,
         "courseTitle": "JavaScript",
-        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/javascript-scaled.jpg",
+        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/js.jpg",
         "courseDuration": "55 weeks",
         "coursePrice": "$220"
     },
     {
         "id": 3,
         "courseTitle": "Nodejs",
-        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/node-js.png",
+        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/nodejs.png",
         "courseDuration": "30 weeks",
-        "coursePrice": "$120"
+        "coursePrice": "$10"
     },
     {
         "id": 4,
         "courseTitle": "AI Development",
-        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/ai-tech-scaled.jpg",
+        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/ai-tech-scaled-1.jpg",
         "courseDuration": "120 weeks",
         "coursePrice": "$500"
     },
     {
         "id": 5,
         "courseTitle": "Web Development",
-        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/ai-tech-scaled.jpg",
+        "coursePhotoUrl": "https://codersheikh.com/wp/wp-content/uploads/2022/10/web-dev.jpg",
         "courseDuration": "60 weeks",
         "coursePrice": "$350"
     },
